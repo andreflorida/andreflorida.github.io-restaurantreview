@@ -5,11 +5,7 @@
   box-sizing: border-box;
 }
 
-body,
-td,
-th,
-p,
-span {
+body,td,th,p,span {
 	font-family: "Barlow Condensed", sans-serif;
 	font-weight: 400;
 	font-size: 20px;
@@ -41,12 +37,7 @@ a img{
 	border: none 0px #fff;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,h2,h3,h4,h5,h6 {
 	font-family: "Barlow Condensed", sans-serif;
 	font-weight: 500;
   margin: 0 0 1em;
@@ -57,18 +48,7 @@ hr {
   border-bottom: 0.05em solid #333;
 }
 
-article,
-aside,
-canvas,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
+article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 	display: block;
 }
 
