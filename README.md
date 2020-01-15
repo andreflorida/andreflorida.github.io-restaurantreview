@@ -1,12 +1,12 @@
-# Restaurant Review App
+# Restaurant Review Project
 
 **Restaurant Review App** — Stage 1
 
 Udacity Project #7 Front-End Developer Nanodegree Program
 
-[See live project](https://andreflorida.github.io/restaurantreview/)
+[look at live project](https://andreflorida.github.io/restaurantreview/)
 
-## Table of Contents
+## Contents
 
 * [Project Overview](#project-overview)
 * [How to Run Application](#how-to-run-application)
@@ -14,7 +14,7 @@ Udacity Project #7 Front-End Developer Nanodegree Program
 * [Contributing](#contributing)
 
 
-## Project Overview
+## Overview
 
 This is the #7 Udacity project made for the classroom on Front-End Web Developer.
 
@@ -24,22 +24,22 @@ For the **Restaurant Reviews** projects, students have to incrementally convert 
 
 Student has been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Student job is to update the code to resolve these issues while still maintaining the included functionality.
 
-#### Note about ES6
+#### About ES6
 
 Most of the code in this project has been written to the ES6 JavaScript specification for compatibility with modern web browsers and future proofing JavaScript code. As much as possible, try to maintain use of ES6 in any additional JavaScript you write.
 
-#### Leaflet.js and Mapbox:
+#### Mapbox and Leaflet.js:
 
 This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/). Student needs to replace `<your MAPBOX API KEY HERE>` with a token from [Mapbox](https://www.mapbox.com/). Mapbox is free to use, and does not require any payment information.
 
-#### Starter Project
+#### Starter your Project at:
 > link https://github.com/udacity/mws-restaurant-stage-1
 
-## How to Run Application
+## How to Run
 
-#### Possible choices:
+#### Some choices:
 
-**1**. Open live project [here](https://andreflorida.github.io/restaurantreview/.
+**1**. Open live project [here](https://andreflorida.github.io/restaurantreview/)
 
 **2**. Or run it on your local machine:
 * download or clone the repository
