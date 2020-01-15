@@ -39,7 +39,7 @@ This repository uses [leafletjs](https://leafletjs.com/) with [Mapbox](https://w
 
 #### Possible choices:
 
-**1**. Open live project [here](https://andreflorida.github.io/restaurantreview).
+**1**. Open live project [here](https://andreflorida.github.io/restaurantreview/.
 
 **2**. Or run it on your local machine:
 * download or clone the repository
